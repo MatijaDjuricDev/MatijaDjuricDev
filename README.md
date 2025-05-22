@@ -1,6 +1,7 @@
 ## Let's fly into world of madness with programming and electronics together! 👨‍💻☕🤯
 
 Java developer - profession 👨‍💻
+
 Electronics fiddler, drone racer, musician, home scientist - hobbies ☕🤯
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
@@ -11,3 +12,5 @@ Electronics fiddler, drone racer, musician, home scientist - hobbies ☕🤯
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 ![Arduino](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=arduino&color=00979D)
+
+I like working with web applications with real world use cases, where I can see impact of my work in real world. 🌍 
