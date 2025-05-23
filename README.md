@@ -15,4 +15,3 @@ Electronics fiddler, drone racer, musician, home scientist - hobbies ☕🤯
 
 I like working with web applications with real world use cases, where I can see impact of my work in real world. 🌍 
 
-📬 Contact: matija.djuric.17@gmail.com
